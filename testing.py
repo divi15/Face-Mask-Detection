@@ -53,14 +53,4 @@ cap.release()
 cv2.destroyAllWindows()
 
 
-# In[1]:
-
-
-webcam.release()
-
-
-# In[ ]:
-
-
-
 
