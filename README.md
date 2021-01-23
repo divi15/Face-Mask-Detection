@@ -12,7 +12,7 @@ We are going to build this project in two parts. In the first part, we will writ
 7. Run the project.
 
 # Requirements
-Google colab
-Jupyter
+1. Google colab
+2. Jupyter
 
 In this project we trained the model using google colab and tested with jupyter.
